@@ -1,4 +1,3 @@
-// Request to my server
 function search(message ) {
     $.ajax({
         type: "GET",
@@ -14,7 +13,6 @@ function search(message ) {
         });
 }
 
-// Take input information from html form after click the button and start function search
 function  getInput() {
     const from = document.getElementById('from');
     const to = document.getElementById('to');
