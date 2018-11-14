@@ -1,0 +1,6 @@
+{
+  "host": "http://node.locomote.com",
+  "airlines": "/code-task/airlines",
+  "airports": "/code-task/airports",
+  "search": "/code-task/flight_search"
+}

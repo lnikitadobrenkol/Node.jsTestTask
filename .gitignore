@@ -1,0 +1,4 @@
+.idea
+/node_modules/
+.jquery
+public/assets/js/jquery-1.12.4.js
